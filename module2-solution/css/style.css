@@ -20,11 +20,6 @@ section {
   width: 100%;
 }
 
-p {
-  position: relative;
-  clear: right;
-}
-
 div {
   position: relative;
   background-color: gray;
@@ -33,6 +28,11 @@ div {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: auto;
+}
+
+p {
+  position: relative;
+  clear: right;
 }
 
 .sec1 {
