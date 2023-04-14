@@ -37,48 +37,48 @@ p {
 
 .sec1 {
   float: right;
-  width: 100px;
+  background-color: rgb(168, 106, 106);
   padding: 5px;
   margin: 0px;
   border: 1px solid black;
   text-align: center;
   font-size: 125%;
   font-weight: bold;
-  background-color: rgb(168, 106, 106);
+  width: 100px;
 }
 
 .sec2 {
   float: right;
   color: white;
-  width: 100px;
+  background-color: brown;
   padding: 5px;
   margin: 0px;
   border: 1px solid black;
   text-align: center;
   font-size: 125%;
   font-weight: bold;
-  background-color: brown;
+  width: 100px;
 }
 
 .sec3 {
   float: right;
   color: black;
-  width: 100px;
+  background-color: rgb(197, 154, 75);
   padding: 5px;
   margin: 0px;
   border: 1px solid black;
   text-align: center;
   font-size: 125%;
   font-weight: bold;
-  background-color: rgb(197, 154, 75);
+  width: 100px;
 }
 
 .description {
+  color: black;
   padding: 5px;
+  margin: 0px;
   border: none;
   font-family: URW Chancery L, cursive;
-  color: black;
-  margin: 0px;
   height: 200px;
   overflow: auto;
 }
