@@ -89,20 +89,20 @@ p {
 
 /*Desktop*/
 @media (min-width: 992px) {
-  .column-lg-4 {
+  .col-lg-4 {
     float: left;
     width: 33.33%;
   }
 }
 /*Tablet*/
 @media (min-width: 768px) and (max-width: 991px) {
-  .column-md-6 {
+  .col-md-6 {
     float: left;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
   }
-  .column-md-12 {
+  .col-md-12 {
     float: left;
     width: 100%;
     margin-left: auto;
@@ -111,7 +111,7 @@ p {
 }
 /*Mobile Phone*/
 @media (max-width: 767px) {
-  .column-sm-12 {
+  .col-sm-12 {
     float: left;
     width: 100%;
   }
